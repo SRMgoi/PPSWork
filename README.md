@@ -1,3 +1,6 @@
-# PPSWork
-This is my 1st year refute work\n
-Please download the zip to view the files (python and .py and C as .txt, to be copied and pasted)
+
+## PPS Work
+
+ - This is my refute project 
+ - Please download the zip file (python as .py and C as .txt [to be copy-pasted])
+ 
